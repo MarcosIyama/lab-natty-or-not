@@ -11,7 +11,7 @@ Este e-book dividido em 3 capítulos relaciona brevemente os assuntos: IAs Gener
 Utilizei o Copilot da Microsoft para a geração deste projeto (texto e arte visual) e o Google Docs para edição e compartilhamento.
 
 ## 🚀 Resultados
-Este e-book introduz brevemente algumas discuções sobre os impactos das IAs Generativas nas periferias das grandes cidades.
+Este e-book introduz brevemente algumas discussões sobre os impactos das IAs Generativas nas periferias das grandes cidades.
 
 [LINK PARA O E-BOOK AQUI](https://docs.google.com/document/d/1lnsZG2geU1q36hDYTm0Qifi5yOnGqXOCqqOn7SHNPj8/edit?usp=sharing)
 
